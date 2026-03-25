@@ -2,5 +2,9 @@
   "current": "0.3.0",
   "minimum": "0.2.0",
   "download_url": "https://github.com/RadekVavrik/konto-releases/releases/latest",
+  "downloads": {
+    "darwin": "https://github.com/RadekVavrik/konto-releases/releases/download/v0.3.0/Konto-0.3.0-macos.zip",
+    "win32":  "https://github.com/RadekVavrik/konto-releases/releases/download/v0.3.0/Konto-0.3.0-windows.zip"
+  },
   "notes": "Aktuální vydání"
 }
